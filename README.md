@@ -1,1 +1,1 @@
-# JavaScript
+# Practice with JavaScript
